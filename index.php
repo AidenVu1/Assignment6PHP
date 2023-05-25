@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
         <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
         <link rel="stylesheet" href="index.css">
-        <title> php </title>
+        <title> Assignment6php </title>
         <body>
             <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       
